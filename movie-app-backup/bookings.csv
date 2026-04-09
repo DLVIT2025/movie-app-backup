@@ -1,0 +1,5 @@
+"Booking ID","Movie Name","User Email",Seats,Date,Time,"Total Price"
+CSVTEST01,"Kalki 2898 AD",test@test.com,"A1, A2","30 Mar 2026","10:00 AM",420
+BKGJXCHR,"Devara: Part 1",vasanthan2207@gmail.com,"D5, D6, D7","2 Apr 2026","1:30 PM",530
+BKUN3NDF,"Devara: Part 1",apple@gmail.com,"C6, C7, C8","2 Apr 2026","1:30 PM",530
+BKU53W3E,"Devara: Part 1",apple@gmail.com,"B5, B6","6 Apr 2026","10:00 AM",380
